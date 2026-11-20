@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MediSlotFullStack",
+    "\\MediSlotFullStack\\MediSlot",
+    "\\MediSlotFullStack\\medislot-frontend",
+    "\\MediSlotFullStack\\MediSlot\\Controllers",
+    "\\MediSlotFullStack\\MediSlot\\Data",
+    "\\MediSlotFullStack\\MediSlot\\DTOs",
+    "\\MediSlotFullStack\\MediSlot\\Models",
+    "\\MediSlotFullStack\\MediSlot\\Properties",
+    "\\MediSlotFullStack\\MediSlot\\Services"
+  ],
+  "SelectedNode": "\\MediSlotFullStack\\MediSlot\\MediSlot.csproj",
+  "PreviewInSolutionExplorer": false
+}
